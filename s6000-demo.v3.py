@@ -65,3 +65,7 @@ for i in range(len(arr)):
     vl = Relationship(v, relation_victim_log, l)
     tx.create(vl)
     tx.commit()  # this line of codes should be as ending code
+    
+    
+    
+    #testing changes
